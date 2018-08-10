@@ -58,7 +58,7 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE( vo_result||'|'||VO_OLT||'|'||VO_ODF||'|'||vo_vsm||'|'||vo_rack||'|'||vo_vii||'|'||vo_vss||'|'||vo_card||'|'||vo_port||'|'||vo_line_profile||'|'||vo_vas_profile||'|'||vo_service_profile||'|'||vo_message );
    
 END;
-
+iohhkjhkjhkjh
 declare
 res varchar2(4000);
 begin
