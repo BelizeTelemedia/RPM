@@ -97,3 +97,4 @@ res:= PCK_FNT.FN_GET_SESSIONID( 'command', 'command', VO_MESSAGE);
 dbms_output.put_line(VO_MESSAGE);
 end;
 
+new line
